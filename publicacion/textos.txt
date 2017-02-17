@@ -1,11 +1,40 @@
 Título (30)
 ===========
 
+Guía de Montefrío
+
+
 Descripción breve (80)
 ======================
 
+Se proporciona la ubicación espacial de los principales elementos de interés
+
+
 Descripción completa (4000)
 ===========================
+
+A través de esta guía se proporciona la ubicación espacial de los principales elementos que configuran el territorio de Montefrío en sus diferentes vertientes temáticas: comercio, construcción, delegaciones municipales, industria, sedes y equipamientos, servicios, sector turístico, etc.
+Su desarrollo ha sido posible gracias a la colaboración entre el Ayuntamiento de Montefrío, Diputación provincial de Sevilla y Junta de Andalucía y para ello, ha sido fundamental el Callejero Digital de Andalucía Unificado – CDAU, que ha permitido asociar a cada uno de los elementos publicados su ubicación espacial.
+En ella se proporciona una relación de los principales elementos recogidos en la página Web del Ayuntamiento y en futuras ediciones se irán añadiendo todas aquellas categorías y temáticas que proporcionen un mejor conocimiento de la realidad del municipio.
+Desarrollado con la infraestructura del proyecto SIG Corporativo de la Junta de Andaucía. Consejería de Hacienda y Administración Pública
+
+
+Notas de versión
+=================
+Versión inicial
+
+****añadir algo aquí si se publica en forma de actualización***
+
+Sitio web
+=========
+***DEJAR VACÍO***
+http://www.montefrio.org/
+
+Correo electrónico
+==================
+sepim.ieca@juntadeandalucia.es
+
+
 
 Etiquetas	
 ===========
